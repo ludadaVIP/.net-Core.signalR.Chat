@@ -11,6 +11,7 @@ Real-time chat application with room support, user presence, and instant messagi
 - SignalR
 - Automapper
 - Dependency Injection
+- Restful API
 - File Validation
 - HTTPS Redirection
 - Error Handling
