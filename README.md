@@ -32,12 +32,18 @@ Real-time chat application with room support, user presence, and instant messagi
 ## How to install
 
 1. Grab the Project
+
 2. Open Visual Studio as Administrator and load the Solution,
-   or double-click Chat.sln
-3. Edit ConnectionString at file appsettings.json
+   or double-click <u>Chat.sln</u>
+
+3. Edit ConnectionString at file <u>appsettings.json</u>
+
 4. Build Database.
+
    Open Package Manager Console and run the following commands:
-      update-database
+
+   ​	update-database
+
 5. That's all... Enjoy the Project!
 
 ## Screenshots
